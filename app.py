@@ -8,7 +8,7 @@ from streamlit_pandas_profiling import st_profile_report
 # Title
 st.markdown('''
 # **Exploratory Data Analysis Web Application**
-This app is developed by **Mohammad Wasiq** called EDA App 
+This app is developed by **Mohd Hammad Khan** called EDA App 
 ''')
 
 # How to upload a file from pc
